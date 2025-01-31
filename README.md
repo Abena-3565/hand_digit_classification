@@ -1,1 +1,1 @@
-# HandWriteen digit classification
+# HandWritten digit classification
