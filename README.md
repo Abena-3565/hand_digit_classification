@@ -1,1 +1,1 @@
-# hand_digit_classification
+# HandWriteen digit classification
